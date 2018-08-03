@@ -1,0 +1,63 @@
+#todo-list {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#user_text {
+  border-radius: 5px;
+  width: 70%;
+  height: 30px;
+  font-size: 17px;
+}
+
+.html_list {
+  width: 70%;
+  height: 30px;
+  border: 0;
+  font-size: 17px;
+}
+
+#submit_btn {
+  background-color: skyblue;
+  font-size: 17px;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+  font-size: 17px;
+  margin-top: 10px;
+  
+  outline: solid;
+  /* display: flex;
+  justify-content: space-between; */
+}
+
+.html_list {
+  width: 50%;
+}
+
+.html_delete_btn {
+  margin-left: 20px;
+  /* width: 70px; */
+  background-color: #ED0036;
+  color: white;
+  font-size: 17px;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+
+.html_modify_btn {
+  margin-left: 20px;
+  /* width: 70px; */
+  background-color: #FFC200;
+  color: white;
+  font-size: 17px;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
